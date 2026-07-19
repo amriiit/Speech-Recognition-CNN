@@ -1,0 +1,22 @@
+# Dataset
+Dataset/
+
+# Trained model
+models/
+
+# Generated dataset
+speech_dataset.npz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+
+# VS Code
+.vscode/
