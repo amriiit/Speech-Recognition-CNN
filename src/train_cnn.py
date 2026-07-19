@@ -92,3 +92,10 @@ history = model.fit(
     epochs=20,
     batch_size=32
 )
+
+
+
+np.save(
+    "history.npy",
+    history.history
+)

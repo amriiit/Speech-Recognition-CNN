@@ -1,0 +1,9 @@
+tensorflow
+numpy
+matplotlib
+librosa
+scikit-learn
+sounddevice
+soundfile
+pydot
+graphviz
